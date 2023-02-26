@@ -161,6 +161,7 @@ a:hover::before, a:focus::before {
     }
 
     img, iframe{
+        height: 250px;
         width: 100%;
     }
 
@@ -197,6 +198,7 @@ a:hover::before, a:focus::before {
     }
 
     img, iframe{
+        height: 250px;
         width: 100%;
         margin-left: 0%;
     }
